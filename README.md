@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pahasara Dinal</h1>
+<h1 align="center"><b>Hi , I'm Pahasara Dinal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Computer Network Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pahasaradinal&label=Profile%20views&color=0e75b6&style=flat" alt="pahasaradinal" /> </p>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pahasaradinal.github.io/Dinal.me/#](https://pahasaradinal.github.io/Dinal.me/#)
 
-- 📝 I regularly write articles on [Cloud Computing](Cloud Computing)
+- 📝 I regularly write articles on (Cloud Computing)
 
 - 💬 Ask me about **Networking**
 
