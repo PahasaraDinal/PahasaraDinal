@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **People**
 
-- 👨‍💻 All of my projects are available at [https://pahasaradinal.github.io/Dinal.me/#](https://pahasaradinal.github.io/Dinal.me/#)
+- 👨‍💻 All of my projects are available at [https://dinal.me/](https://dinal.me/)
 
 - 📝 I regularly write articles on (Cloud Computing)
 
