@@ -83,20 +83,6 @@ location: Sri Lanka
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pahasaradinal&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=555&bg_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=pahasaradinal&layout=compact&hide_border=true&title_color=0e75b6&text_color=555&bg_color=ffffff" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pahasaradinal&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&background=ffffff&sideLabels=555&dates=999" alt="GitHub streak" />
-</p>
-
----
 
 ### Connect &amp; support
 
